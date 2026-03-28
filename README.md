@@ -18,9 +18,8 @@
 ## 🛠️ Tech Stack
 
 ```txt
+Languages: Java, Python, SQL  
 Frontend: React  
-Backend: Java (Learning)  
-Database: SQL  
 Data Analytics: Excel, Power BI  
 Tools: Git, GitHub
 ```
@@ -35,13 +34,17 @@ Tools: Git, GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bilal1427\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=bilal1427\&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1427\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 My Repositories
+
+* 🔹 Check all my projects here 👉 https://github.com/bilal1427?tab=repositories
 
 ---
 
@@ -53,4 +56,3 @@ Tools: Git, GitHub
 ---
 
 ✨ *"Keep learning, keep building, and success will follow."*
-
